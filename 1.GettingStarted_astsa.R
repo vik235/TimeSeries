@@ -23,6 +23,7 @@ legend("topleft",
        c("Time series" , "Mean function"), 
        text.col = c(1 , 4))
 
+acf(globtemp , 10 , plot = F)
 #Dow Jones Returns
 
 #Some issue in tsplot 
@@ -33,7 +34,11 @@ tsplot(djiar, main="DJIA Returns", xlab='', margins=.5)
 ##White noise with a gaussian distr 
 par(mfrow = c(2,1))
 norm = rnorm(100)
+norm2 = rnorm(100 , 0 , 5)
 plot(norm, type = "o" , xlab = "Index of drawing / Time" , ylab = "White Noise (Std. Normal)" )
+plot(norm2, type = "o" , xlab = "Index of drawing / Time" , ylab = "White Noise (Std. Normal)" )
+
+
 v = filter(norm , sides = 2 , rep(1/3 , 3)) #filter because linear comb of values of ts look eg. 1.7
 tsplot(v , ylab = "Inducing correlation , Moving Average(3) model")
 
