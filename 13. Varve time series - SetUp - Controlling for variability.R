@@ -1,0 +1,7 @@
+dev.off()
+par(mfrow = c(2,1))
+tsplot(varve)
+lvarve = log(varve)
+tsplot(lvarve)
+tsplot(diff(lvarve))
+acf(diff(lvarve))

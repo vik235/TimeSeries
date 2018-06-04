@@ -34,6 +34,28 @@ fit = lm(rec ~ soi6 , data = fish)
 summary(fit)
 
 plot(fit)
-##bad 
+##bad fit , so we arent capturing much with this model.. 
 
 acf(residuals(fit))
+##lets plot the rec vs soi data again with the smooth fit to check on the linearity 
+
+lag2.plot(soi , rec , 10 )
+## we see the non linear relationship here fo lag(soi , -6) . Thus consider usign GAM or 
+## fitting using a dummy variable for soi > 0 
+
+dummy = ifelse(soi < 0 , 0 , 1)
+
+fish = ts.intersect(rec, soi6 = lag(soi , -6) , dum = lag(dummy , -6))
+
+fit2 = lm(rec ~ soi6*as.factor(dum) , data = fish)
+
+summary(fit2)
+
+
+dev.off()
+par(mfrow=c(2,2))
+
+plot(fit2)
+
+acf(residuals(fit2))
+
