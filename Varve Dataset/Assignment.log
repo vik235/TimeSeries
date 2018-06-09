@@ -1,0 +1,360 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.6)  9 JUN 2018 06:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Assignment.tex
+(./Assignment.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(c:/texlive/2018/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(c:/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count88
+\c@Blindtext=\count89
+\c@blind@countparstart=\count90
+\blind@countxx=\count91
+\blindtext@numBlindtext=\count92
+\blind@countyy=\count93
+\c@blindlist=\count94
+\c@blindlistlevel=\count95
+\c@blindlist@level=\count96
+\blind@listitem=\count97
+\c@blind@listcount=\count98
+\c@blind@levelcount=\count99
+\blind@mathformula=\count100
+\blind@Mathformula=\count101
+\c@blind@randomcount=\count102
+\c@blind@randommax=\count103
+\c@blind@pangramcount=\count104
+\c@blind@pangrammax=\count105
+)
+(c:/texlive/2018/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip43
+\@affilsep=\skip44
+\c@Maxaffil=\count106
+\c@authors=\count107
+\c@affil=\count108
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count109
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count110
+\leftroot@=\count111
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count112
+\DOTSCASE@=\count113
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count114
+\c@MaxMatrixCols=\count115
+\dotsspace@=\muskip10
+\c@parentequation=\count116
+\dspbrk@lvl=\count117
+\tag@help=\toks16
+\row@=\count118
+\column@=\count119
+\maxfields@=\count120
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(c:/texlive/2018/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+)
+(c:/texlive/2018/texmf-dist/tex/latex/base/ot1enc.def
+File: ot1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 48.
+))) (./Assignment.aux)
+\openout1 = `Assignment.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 15.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 15.
+
+(c:/texlive/2018/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 15.
+
+(c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen115
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks21
+) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 16.
+
+LaTeX Font Info:    No file OMScmss.fd. on input line 16.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textasteriskcentered' on input line 16.
+
+[1
+
+{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<Parta1.pdf, id=12, 614.295pt x 794.97pt>
+File: Parta1.pdf Graphic file (type pdf)
+<use Parta1.pdf>
+Package pdftex.def Info: Parta1.pdf  used on input line 28.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+<Lag0.pdf, id=13, 614.295pt x 794.97pt>
+File: Lag0.pdf Graphic file (type pdf)
+<use Lag0.pdf>
+Package pdftex.def Info: Lag0.pdf  used on input line 40.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+<lagplots_10.pdf, id=14, 614.295pt x 794.97pt>
+File: lagplots_10.pdf Graphic file (type pdf)
+<use lagplots_10.pdf>
+Package pdftex.def Info: lagplots_10.pdf  used on input line 47.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+ [2] [3 <./Parta1.pdf>] [4 <./Lag0.pdf>] [5 <./lagplots_10.pdf>]
+<Fit.jpg, id=48, 405.76593pt x 204.01219pt>
+File: Fit.jpg Graphic file (type jpg)
+<use Fit.jpg>
+Package pdftex.def Info: Fit.jpg  used on input line 83.
+(pdftex.def)             Requested size: 310.4979pt x 156.11862pt.
+<Residualplot.pdf, id=49, 614.295pt x 794.97pt>
+File: Residualplot.pdf Graphic file (type pdf)
+<use Residualplot.pdf>
+Package pdftex.def Info: Residualplot.pdf  used on input line 90.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+ [6] [7 <./Fit.JPG>] [8 <./Residualplot.pdf>]
+<Tsplot-varve.pdf, id=66, 614.295pt x 794.97pt>
+File: Tsplot-varve.pdf Graphic file (type pdf)
+<use Tsplot-varve.pdf>
+Package pdftex.def Info: Tsplot-varve.pdf  used on input line 131.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+<TsPlot-lvarve.pdf, id=67, 614.295pt x 794.97pt>
+File: TsPlot-lvarve.pdf Graphic file (type pdf)
+<use TsPlot-lvarve.pdf>
+Package pdftex.def Info: TsPlot-lvarve.pdf  used on input line 138.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+<DensityVarve.pdf, id=68, 614.295pt x 794.97pt>
+File: DensityVarve.pdf Graphic file (type pdf)
+<use DensityVarve.pdf>
+Package pdftex.def Info: DensityVarve.pdf  used on input line 145.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+<Densitylvarve.pdf, id=69, 614.295pt x 794.97pt>
+File: Densitylvarve.pdf Graphic file (type pdf)
+<use Densitylvarve.pdf>
+Package pdftex.def Info: Densitylvarve.pdf  used on input line 152.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+<QQPlot.pdf, id=70, 614.295pt x 794.97pt>
+File: QQPlot.pdf Graphic file (type pdf)
+<use QQPlot.pdf>
+Package pdftex.def Info: QQPlot.pdf  used on input line 160.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+<SampleACF-lVarve.pdf, id=71, 614.295pt x 794.97pt>
+File: SampleACF-lVarve.pdf Graphic file (type pdf)
+<use SampleACF-lVarve.pdf>
+Package pdftex.def Info: SampleACF-lVarve.pdf  used on input line 182.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+ [9] [10 <./Tsplot-varve.pdf>] [11 <./TsPlot-lvarve.pdf>]
+[12 <./DensityVarve.pdf>] [13 <./Densitylvarve.pdf>] [14 <./QQPlot.pdf>]
+[15 <./SampleACF-lVarve.pdf>]
+<DTSDiff.pdf, id=130, 614.295pt x 794.97pt>
+File: DTSDiff.pdf Graphic file (type pdf)
+<use DTSDiff.pdf>
+Package pdftex.def Info: DTSDiff.pdf  used on input line 204.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+<ACF-Diff.pdf, id=131, 614.295pt x 794.97pt>
+File: ACF-Diff.pdf Graphic file (type pdf)
+<use ACF-Diff.pdf>
+Package pdftex.def Info: ACF-Diff.pdf  used on input line 211.
+(pdftex.def)             Requested size: 310.4979pt x 401.82666pt.
+ [16] [17 <./DTSDiff.pdf>] [18 <./ACF-Diff.pdf>]
+(./Assignment.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3414 strings out of 492649
+ 44488 string characters out of 6133385
+ 105704 words of memory out of 5000000
+ 7240 multiletter control sequences out of 15000+600000
+ 10924 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,304b,296s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2018/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2018/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmss12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmss17.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.
+pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2
+018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2018/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Assignment.pdf (18 pages, 421067 bytes).
+PDF statistics:
+ 193 PDF objects out of 1000 (max. 8388607)
+ 134 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
